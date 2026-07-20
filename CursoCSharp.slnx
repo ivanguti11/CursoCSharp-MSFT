@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_challenge_largerNumber/01_challenge_largerNumber.csproj" />
+  <Project Path="01_Random/01_Random.csproj" />
+  <Project Path="02_decisionesIF/02_decisionesIF.csproj" />
+  <Project Path="03_arreglos/03_arreglos.csproj" />
+</Solution>
