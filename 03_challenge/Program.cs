@@ -49,7 +49,7 @@ foreach(string nombres in alumnos)
                 sumaCalificaciones+=notas;
                 else
                 sumaCalificaciones+=notas/10;
-            adicional++;
+                adicional++;
 
         }
         adicional = 1;
