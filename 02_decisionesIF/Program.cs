@@ -47,9 +47,9 @@ int porcentajeDescuento = 0;
 
 Console.WriteLine(diasExpiracion);
 if(diasExpiracion <= 10 && diasExpiracion > 5)
-{
+
     Console.WriteLine("Tu suscripción se vencerá pronto, renuevala ya!");
-}
+
 else if (diasExpiracion <= 5 && diasExpiracion >1)
 {
     porcentajeDescuento = 10;
