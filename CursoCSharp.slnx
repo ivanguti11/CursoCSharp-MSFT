@@ -8,5 +8,6 @@
   <Project Path="03_arreglos/03_arreglos.csproj" />
   <Project Path="03_challenge/03_challenge.csproj" />
   <Project Path="04_decisionesBooleanas/04_decisionesBooleanas.csproj" />
+  <Project Path="05_doWhile/05_doWhile.csproj" />
   <Project Path="05_instruccionfor/05_instruccionfor.csproj" />
 </Solution>
