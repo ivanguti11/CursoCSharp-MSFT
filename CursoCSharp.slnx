@@ -10,4 +10,5 @@
   <Project Path="04_decisionesBooleanas/04_decisionesBooleanas.csproj" />
   <Project Path="05_doWhile/05_doWhile.csproj" />
   <Project Path="05_instruccionfor/05_instruccionfor.csproj" />
+  <Project Path="06_tipoDeDatos/06_tipoDeDatos.csproj" />
 </Solution>
